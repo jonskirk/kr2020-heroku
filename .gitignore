@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# node
+node-bitmap-generator/node_modules
+node_modules
+
+# python
+__pycache__
